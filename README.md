@@ -11,3 +11,7 @@
 # Fun Ideas
 
 * [Koboldstorm - 30 Kobold Vs. The Tomb of Horrors](https://www.reddit.com/r/dndnext/comments/88igxe/koboldstorm_30_kobold_vs_the_tomb_of_horrors/)
+
+# Puzzles
+
+* Password Cipher - Based on Caesar Cipher (More incoming after session)
