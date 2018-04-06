@@ -13,6 +13,11 @@
 
 * [Koboldstorm - 30 Kobold Vs. The Tomb of Horrors](https://www.reddit.com/r/dndnext/comments/88igxe/koboldstorm_30_kobold_vs_the_tomb_of_horrors/)
 
+# Youtubers
+
+* [Runehammer/Drunkens n Dragons](https://www.youtube.com/channel/UCCh5vto8JFstb9Sma9zV25g) - Bookcraft, General Awesomeness
+* [Matt Coleville](https://www.youtube.com/user/mcolville) - Running the Game series
+
 # Puzzles
 
 * Password Cipher - Based on Caesar Cipher (More incoming after session)
