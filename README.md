@@ -21,6 +21,7 @@
 # Blogs
 
 * [Angry GM](http://theangrygm.com/)
+* [The Monsters Know What They're Doing](http://themonstersknow.com/) - Various monster tactics
 
 # Puzzles
 
