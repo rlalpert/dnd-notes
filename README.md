@@ -18,6 +18,10 @@
 * [Runehammer/Drunkens n Dragons](https://www.youtube.com/channel/UCCh5vto8JFstb9Sma9zV25g) - Bookcraft, General Awesomeness
 * [Matt Coleville](https://www.youtube.com/user/mcolville) - Running the Game series
 
+# Blogs
+
+* [Angry GM](http://theangrygm.com/)
+
 # Puzzles
 
 * Password Cipher - Based on Caesar Cipher (More incoming after session)
