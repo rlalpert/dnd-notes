@@ -4,6 +4,7 @@
 * [D&D 5E Tools by Leugren](http://1-dot-encounter-planner.appspot.com/) - *5e tools, including a good point buy calculator.*
 * [Random Dungeon Generator (Donjon)](http://donjon.bin.sh/5e/dungeon/) - *Lots of other tools, too.*
 * [Random Potions Table](https://www.reddit.com/r/DnDBehindTheScreen/comments/4btnkc/random_potions_table/)
+* [dnd-spells.com](https://www.dnd-spells.com/) - *All the spells.*
 
 # Encounter Building
 
