@@ -5,6 +5,7 @@
 * [Random Dungeon Generator (Donjon)](http://donjon.bin.sh/5e/dungeon/) - *Lots of other tools, too.*
 * [Random Potions Table](https://www.reddit.com/r/DnDBehindTheScreen/comments/4btnkc/random_potions_table/)
 * [dnd-spells.com](https://www.dnd-spells.com/) - *All the spells.*
+* [r/BehindTheTables](https://www.reddit.com/r/BehindTheTables/) - *Lots of community-made tables.*
 
 # Encounter Building
 
