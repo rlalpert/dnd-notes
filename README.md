@@ -34,3 +34,7 @@
 
 * [60 Dungeon Puzzles](https://docs.google.com/document/d/1hfompGbslrV_YvQ4ktPnY7vg-_blkIZ72hPcXLEWZdQ/edit) - from [this reddit post.](https://www.reddit.com/r/DnD/comments/6ukgn9/60_dungeon_puzzles_for_you/)
 * Password Cipher - Based on Caesar Cipher (More incoming after session)
+
+# Mini Painting
+
+* [Sorastro (Youtube)](https://www.youtube.com/user/Sorastro) - Super talented, chill to watch
