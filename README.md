@@ -38,4 +38,5 @@
 # Mini Painting
 
 * [Sorastro (Youtube)](https://www.youtube.com/user/Sorastro) - Super talented, chill to watch
+* [Miniac (Youtube)](https://www.youtube.com/user/SDubist)
 * [r/minipainting](https://www.reddit.com/r/minipainting/)
